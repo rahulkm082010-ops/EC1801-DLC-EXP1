@@ -79,7 +79,6 @@ endmodule
     
 ## Truth Table
  
-<img width="795" height="311" alt="image" src="https://github.com/user-attachments/assets/dd4ba5b9-016b-4ae5-a693-f309c60c4c0e" />
 
 ## Simulation Procedure
 STEP 1 – Open Terminal
@@ -129,8 +128,7 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
-
-<img width="1878" height="1051" alt="Screenshot 2026-10-08 143629" src="https://github.com/user-attachments/assets/56d8f7a0-0485-4356-89ba-70a399c1f2fa" />
+<img width="1878" height="1051" alt="Screenshot 2026-10-08 143629" src="https://github.com/user-attachments/assets/17249152-e7f5-4c99-b002-bf7e54e5b2e8" />
 
 
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis.
